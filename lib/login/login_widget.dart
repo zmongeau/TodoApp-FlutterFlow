@@ -145,7 +145,7 @@ class _LoginWidgetState extends State<LoginWidget>
                               indicatorColor: Color(0x00FFFFFF),
                               tabs: [
                                 Tab(
-                                  text: 'Signup',
+                                  text: 'Sign up',
                                 ),
                                 Tab(
                                   text: 'Login',
